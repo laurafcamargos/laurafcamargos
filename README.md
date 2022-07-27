@@ -17,6 +17,11 @@
   
 </div>
   
+  ## OS User: 
+  
+  <img align="center" alt="html" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+</div>
+  
 ![Snake animation](https://github.com/laurafcamargos/laurafcamargos/blob/output/github-contribution-grid-snake.svg)
  
 </div>
