@@ -1,4 +1,4 @@
-## Oii, eu sou a Laura 👍
+## Bem-vindo, eu sou a Laura!
 <div align="center">
   <a href="https://github.com/laurafcamargos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laurafcamargos&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
