@@ -1,8 +1,8 @@
 ## Bem-vindo, eu sou a Laura!
 <div align="center">
   <a href="https://github.com/laurafcamargos">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=laurafcamargos&theme=dark&show_icons=true"/>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurafcamargos&show_icons=true&theme=dark&langs_count=3)(https://github.com/anuraghazra/github-readme-stats)"/> 
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=laurafcamargos&theme=vision-friendly-dark&show_icons=true"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurafcamargos&show_icons=true&theme=vision-friendly-dark&langs_count=3)(https://github.com/anuraghazra/github-readme-stats)"/> 
 </div>
 <div style="display: inline_block"><br> 
   
