@@ -5,8 +5,7 @@
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurafcamargos&show_icons=true&theme=dark&langs_count=3)(https://github.com/anuraghazra/github-readme-stats)"/> 
 </div>
 <div style="display: inline_block"><br> 
-  <img align="center" alt="Laura-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Laura-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  
  </div>  
   
   ##
