@@ -1,4 +1,4 @@
-## Bem-vindo, eu sou a Laura!
+## Bem-vindo, eu sou a Laura! :woman_technologist:
 <div align="center">
   <a href="https://github.com/laurafcamargos">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=laurafcamargos&theme=vision-friendly-dark&show_icons=true"/>
