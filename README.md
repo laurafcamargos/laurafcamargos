@@ -1,5 +1,5 @@
 ## :woman_technologist: Bem-vindo, eu sou a Laura! :woman_technologist:
-##: Estou sempre buscando aprender! 
+# Estou sempre buscando aprender! 
 <div align="center">
   <a href="https://github.com/laurafcamargos">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=laurafcamargos&theme=vision-friendly-dark&show_icons=true"/>
