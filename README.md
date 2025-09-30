@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-    Olá, eu sou a Laura :woman_technologist:
+    hi there! :woman_technologist:
   </h1>
   
   <p align="center"
